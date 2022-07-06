@@ -1,5 +1,5 @@
 global.linkGC = [''] // ganti jadi group lu
-global.owner = ['6289625556161'] // Put your number here
+global.owner = ['6285785694474'] // Put your number here
 global.mods = [''] // Want some help?
 global.prems = [''] // Premium user has unlimited limit
 global.APIs = { // API Prefix
